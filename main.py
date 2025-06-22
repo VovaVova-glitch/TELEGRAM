@@ -6,7 +6,7 @@ from telegram.ext import (
 
 import os
 
-TOKEN = os.getenv("BOT_TOKEN")  # Обязательно установи переменную окружения BOT_TOKEN на Render
+TOKEN = os.getenv("7918724312:AAHkPzC4Sx3GhF9uxzfJ28oawpWvm3-yLKY")  # Обязательно установи переменную окружения BOT_TOKEN на Render
 
 # Состояния
 GOAL, GENDER, AGE, HEIGHT, WEIGHT, ACTIVITY, TRAINING, GOAL_MEAL = range(8)
